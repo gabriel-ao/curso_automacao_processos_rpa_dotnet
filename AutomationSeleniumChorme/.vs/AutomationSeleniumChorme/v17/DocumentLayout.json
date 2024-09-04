@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DF0533A-3549-45E6-B336-0F7D674C32E7}|RobotEasyAutomation\\RobotEasyAutomation.csproj|d:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\automationseleniumchorme\\roboteasyautomation\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF0533A-3549-45E6-B336-0F7D674C32E7}|RobotEasyAutomation\\RobotEasyAutomation.csproj|solutionrelative:roboteasyautomation\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DF0533A-3549-45E6-B336-0F7D674C32E7}|RobotEasyAutomation\\RobotEasyAutomation.csproj|d:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\automationseleniumchorme\\roboteasyautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF0533A-3549-45E6-B336-0F7D674C32E7}|RobotEasyAutomation\\RobotEasyAutomation.csproj|solutionrelative:roboteasyautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF0533A-3549-45E6-B336-0F7D674C32E7}|RobotEasyAutomation\\RobotEasyAutomation.csproj|d:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\automationseleniumchorme\\roboteasyautomation\\database_costumer.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DF0533A-3549-45E6-B336-0F7D674C32E7}|RobotEasyAutomation\\RobotEasyAutomation.csproj|solutionrelative:roboteasyautomation\\database_costumer.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF0533A-3549-45E6-B336-0F7D674C32E7}|RobotEasyAutomation\\RobotEasyAutomation.csproj|d:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\automationseleniumchorme\\roboteasyautomation\\roboteasyautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DF0533A-3549-45E6-B336-0F7D674C32E7}|RobotEasyAutomation\\RobotEasyAutomation.csproj|solutionrelative:roboteasyautomation\\roboteasyautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{280D966B-5080-4E8E-9681-7E651432E9A4}|AutomationSeleniumChorme\\AutomationSeleniumChorme.csproj|d:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\automationseleniumchorme\\automationseleniumchorme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +50,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "database_costumer.csv",
+              "DocumentMoniker": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\RobotEasyAutomation\\database_costumer.csv",
+              "RelativeDocumentMoniker": "RobotEasyAutomation\\database_costumer.csv",
+              "ToolTip": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\RobotEasyAutomation\\database_costumer.csv [Somente Leitura]",
+              "RelativeToolTip": "RobotEasyAutomation\\database_costumer.csv [Somente Leitura]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-09-04T02:55:23.073Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RobotEasyAutomation",
+              "DocumentMoniker": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\RobotEasyAutomation\\RobotEasyAutomation.csproj",
+              "RelativeDocumentMoniker": "RobotEasyAutomation\\RobotEasyAutomation.csproj",
+              "ToolTip": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\RobotEasyAutomation\\RobotEasyAutomation.csproj",
+              "RelativeToolTip": "RobotEasyAutomation\\RobotEasyAutomation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T02:51:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\RobotEasyAutomation\\Checkout.cs",
+              "RelativeDocumentMoniker": "RobotEasyAutomation\\Checkout.cs",
+              "ToolTip": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\RobotEasyAutomation\\Checkout.cs",
+              "RelativeToolTip": "RobotEasyAutomation\\Checkout.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:51:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\RobotEasyAutomation\\Program.cs",
               "RelativeDocumentMoniker": "RobotEasyAutomation\\Program.cs",
               "ToolTip": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\RobotEasyAutomation\\Program.cs",
               "RelativeToolTip": "RobotEasyAutomation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T01:45:33.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Quotes.cs",
               "DocumentMoniker": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\AutomationSeleniumChorme\\Quotes.cs",
               "RelativeDocumentMoniker": "AutomationSeleniumChorme\\Quotes.cs",
@@ -64,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "QuotesWebDriver.cs",
               "DocumentMoniker": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\AutomationSeleniumChorme\\QuotesWebDriver.cs",
               "RelativeDocumentMoniker": "AutomationSeleniumChorme\\QuotesWebDriver.cs",
@@ -77,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\documentos\\github\\curso_automacao_processos_rpa_dotnet\\AutomationSeleniumChorme\\AutomationSeleniumChorme\\Program.cs",
               "RelativeDocumentMoniker": "AutomationSeleniumChorme\\Program.cs",
