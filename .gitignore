@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/AutomationSeleniumChorme/AutomationSeleniumChorme/bin/Debug/net8.0
+/AutomationSeleniumChorme/AutomationSeleniumChorme/obj
+/AutomationSeleniumChorme/RobotEasyAutomation/obj
+/AutomationSeleniumChorme/.vs/AutomationSeleniumChorme/FileContentIndex
