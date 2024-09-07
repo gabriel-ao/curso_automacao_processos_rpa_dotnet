@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomationSeleniumChorme", "AutomationSeleniumChorme\AutomationSeleniumChorme.csproj", "{280D966B-5080-4E8E-9681-7E651432E9A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotEasyAutomation", "RobotEasyAutomation\RobotEasyAutomation.csproj", "{7DF0533A-3549-45E6-B336-0F7D674C32E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotEasyAutomation", "RobotEasyAutomation\RobotEasyAutomation.csproj", "{7DF0533A-3549-45E6-B336-0F7D674C32E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWhatsapp", "RobotWhatsapp\RobotWhatsapp.csproj", "{00C98E0A-CFB0-4FE7-B14F-2F5EE2F4D03C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7DF0533A-3549-45E6-B336-0F7D674C32E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DF0533A-3549-45E6-B336-0F7D674C32E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DF0533A-3549-45E6-B336-0F7D674C32E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C98E0A-CFB0-4FE7-B14F-2F5EE2F4D03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C98E0A-CFB0-4FE7-B14F-2F5EE2F4D03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C98E0A-CFB0-4FE7-B14F-2F5EE2F4D03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C98E0A-CFB0-4FE7-B14F-2F5EE2F4D03C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
